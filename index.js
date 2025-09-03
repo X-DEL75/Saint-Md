@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there SAINT-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet SAINT-MD WhatsApp Bot.\n\n *Thanks for using SAINT \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VaHI7LsFnSz1irwgsL1z \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/chhaseeb47/HASI-MD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ χ SAINT ❣️ \ud83d\udda4`;
+  let up = `*Hello there SAINT-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet SAINT-MD WhatsApp Bot.\n\n *Thanks for using SAINT \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029Vb6ME3nADTOAbhjOWR1N \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/chhaseeb47/HASI-MD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ χ SAINT ❣️ \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://img1.pixhost.to/images/8429/637342945_uploaded_image.jpg` }, caption: up })
   }
   })
