@@ -1,6 +1,6 @@
-name: Hasi-md
+name: Saint-md
 services:
-  - name: khan-md-service
+  - name: Saint-md-service
     type: web
     ports:
       - 5000
