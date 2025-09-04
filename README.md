@@ -2,7 +2,7 @@
 
 
 
-> **Current Bot Version `2.0.0`**  
+> **Current Bot Version `1.0.0`**  
 
 ---
 
@@ -17,7 +17,7 @@
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
-  <a href='https://github.com/chhaseeb47/HASI-MD/fork' target="_blank">
+  <a href=https://github.com/X-DEL75/Saint-Md/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -73,7 +73,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://whatsapp.com/channel/0029VaHI7LsFnSz1irwgsL1z" target="_blank">
+      <a href="https://whatsapp.com/channel/0029Vb6ME3nADTOAbhjOWR1N" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
       </a>
     </td>
@@ -101,7 +101,7 @@
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VaHI7LsFnSz1irwgsL1z">
+  <a href="https://whatsapp.com/channel/0029Vb6ME3nADTOAbhjOWR1N">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
@@ -125,7 +125,7 @@
 
 
 
-## 👑 HASI STATUS
+## 👑 SAINT STATUS
 
 ```diff
 + Project Status: Active
