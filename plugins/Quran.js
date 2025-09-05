@@ -59,15 +59,15 @@ ${translatedTafsirEnglish.text}`;
     await conn.sendMessage(
       from,
       {
-        image: { url: `https://img1.pixhost.to/images/8429/637342945_uploaded_image.jpg` },
+        image: { url: `https://files.catbox.moe/8lxlpq.jpg` },
         caption: quranSurah,
         contextInfo: {
           mentionedJid: [m.sender], 
           forwardingScore: 999,  
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363403190458150@newsletter', 
-            newsletterName: 'χ SAINT', 
+            newsletterJid: '120363354023106228@newsletter', 
+            newsletterName: 'χ нαѕι', 
             serverMessageId: 143
           }
         }
@@ -449,7 +449,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://img1.pixhost.to/images/8429/637342945_uploaded_image.jpg` },
+                image: { url: `https://files.catbox.moe/8lxlpq.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -457,7 +457,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363354023106228@newsletter',
-                        newsletterName: 'χ SAINT',
+                        newsletterName: 'χ нαѕι',
                         serverMessageId: 143
                     }
                 }
@@ -476,4 +476,3 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
         reply(`${e}`);
     }
 });
-
